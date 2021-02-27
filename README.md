@@ -1,2 +1,2 @@
 # Othello
-project 1 / unreal engine 4 with cpp
+project Othello / unreal engine 4 with cpp
